@@ -1,0 +1,7 @@
+C:\Users\33005\source\repos\IceProject\IceProject\bin\Debug\IceProject.exe.config
+C:\Users\33005\source\repos\IceProject\IceProject\bin\Debug\IceProject.exe
+C:\Users\33005\source\repos\IceProject\IceProject\bin\Debug\IceProject.pdb
+C:\Users\33005\source\repos\IceProject\IceProject\obj\Debug\IceProject.csproj.AssemblyReference.cache
+C:\Users\33005\source\repos\IceProject\IceProject\obj\Debug\IceProject.csproj.CoreCompileInputs.cache
+C:\Users\33005\source\repos\IceProject\IceProject\obj\Debug\IceProject.exe
+C:\Users\33005\source\repos\IceProject\IceProject\obj\Debug\IceProject.pdb
